@@ -6,9 +6,7 @@ Try out a game of Hangers here: https://hangers.party/
 
 ## Having issues?
 
-If you encounter a problem while playing, please report it to me by [creating an issue](https://github.com/jawnyawns/hangers/issues/). I will try to fix the problem ASAP!
-
-You can also message me on Instagram: [@jawnyawns](https://www.instagram.com/jawnyawns/)
+If you encounter a problem while playing, please let me know by [creating a bug report](https://github.com/jawnyawns/hangers/issues/new/choose) or messaging me on Instagram: [@jawnyawns](https://www.instagram.com/jawnyawns/). I will try to fix the problem ASAP!
 
 ## Donations
 
