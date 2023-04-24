@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Found an issue? Create a bug report to help us improve!
-title: "Replace this w/ a short title describing the problem"
+title: "Insert title describing the problem"
 labels: 'bug,triage'
 assignees: ''
 
