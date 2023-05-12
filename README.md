@@ -12,4 +12,4 @@ Please consider [donating](https://buymeacoffee.com/johnchinjew) to support the 
 
 ---
 
-© 2020 John Chin-Jew. All rights reserved.
+© 2020-2023 John Chin-Jew. All rights reserved.
