@@ -1,6 +1,6 @@
 # Hangers
 
-[Hangers](https://hangers.party/) is a multiplayer game of words and wits! Made by [John Chin-Jew](https://jawnyawns.github.io/).
+[Hangers](https://hangers.party/) is a multiplayer game of words and wits! To win, you must guess every opponent's secret word before they guess yours. Battle opponents worldwide in the Arena or play with friends in a Private Match! Made by [John Chin-Jew](https://jawnyawns.github.io/).
 
 ## Report a problem
 
